@@ -17,6 +17,7 @@ $ python3 tool.py --help
 ```
 
 ## Usage
+Sometimes needs to use and append more HTTP Headers in the malicious request for different purposes E.g. bypass localhost restrictions. So you can add your own HTTP headers at `/lib/clte.py` or `/lib/tecl.py`.
 
 ```
 $ python3 tool.py --help
