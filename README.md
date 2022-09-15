@@ -7,6 +7,7 @@ For the valid chunk generator (TE.CL) i found the source code from [HTTP Request
 > [TE-CL | PortSwigger HTTP Request Smuggler Resource](https://github.com/PortSwigger/http-request-smuggler/blob/master/resources/TE-CL.py) <br>
 > [CL-TE | PortSwigger HTTP Request Smuggler Resource](https://github.com/PortSwigger/http-request-smuggler/blob/master/resources/CL-TE.py)
 
+#### Attention this tool does not offer automated exploitation. You have to identify the injection point and exploit it manually!
 
 
 ## Installation
