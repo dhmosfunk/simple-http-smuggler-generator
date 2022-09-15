@@ -1,1 +1,2 @@
 ## Simple HTTP Smuggler Generator
+ 
