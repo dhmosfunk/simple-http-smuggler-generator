@@ -65,7 +65,7 @@ Also disable the auto-update Content-Length from menu
 
 ### Generating CL.TE Request
 ```
-python3 tool.py -v clte -host xxxx.net -a admin_panel -m get
+$ python3 tool.py -v clte -host xxxx.net -a admin_panel -m get
 
 ---[CL.TE Payload Generated]---
 
