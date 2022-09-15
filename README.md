@@ -11,7 +11,7 @@ For the valid chunk generator (TE.CL) i found the source code from [HTTP Request
 
 ## Installation
 ```
-$ git clone url
+$ git clone https://github.com/dhmosfunk/simple-http-smuggler-generator.git
 $ python3 tool.py --help
 ```
 
