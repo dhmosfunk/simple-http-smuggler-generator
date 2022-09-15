@@ -1,1 +1,1 @@
-# simple-http-smuggler-generator
+## Simple HTTP Smuggler Generator
